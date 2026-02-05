@@ -1,4 +1,3 @@
-````md
 # EaglerLink
 **Custom-domain bridge for Eaglercraft hosts (EaglerHost, etc.) that don’t let you change the WSS domain.**
 
