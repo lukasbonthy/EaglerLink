@@ -39,7 +39,7 @@ Click **Fork** on GitHub so you have your own copy.
 Open `server.js` and change:
 
 ```js
-const UPSTREAM_URL = 'wss://PromiseLand-CKMC.eagler.host/';
+const UPSTREAM_URL = 'wss://YOUR-SERVER.eagler.host/';
 ````
 
 to your EaglerHost WSS endpoint:
